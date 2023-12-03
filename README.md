@@ -18,10 +18,6 @@ In each file you will see TODO items in the comments. I've tried to give some ad
 
 ## Files To Edit
 
-- client/src-sw.js
-- client/webpack.config.js
-- client/src/database.js
-- client/src/install.js
 
 ## Things To Note
 
